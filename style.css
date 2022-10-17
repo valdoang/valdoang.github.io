@@ -18,8 +18,9 @@ body {
 }
 
 .navbar ul li a:hover {
-    text-decoration: underline;
+    border-bottom: 3px solid #fff;
 }
+
 
 .banner {
     height :80vh;
